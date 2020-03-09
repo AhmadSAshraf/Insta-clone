@@ -17,7 +17,7 @@ Insta-Clone, as the name dictates is a clone of the popular social media platfor
      ```bash
         python manage.py runserver
     ```
-* You can view the live version of the app in [Insta-Clone]("https://insta-gclone.herokuapp.com/")
+* You can view the live version of the app in [Insta-Clone]("https://insta-gclone.herokuapp.com/") https://insta-gclone.herokuapp.com
 
 
 
