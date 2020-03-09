@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(65, 88, 117);
+    background-color: #FAFAFA;
 }
 
 #profile-summary{
@@ -20,7 +20,7 @@ body{
     display:flex;
     flex-direction: row;
     flex-wrap: wrap;
-    border:1px solid blue;
+    border:1px solid green;
 } */
 .post-display{
     max-width: 18rem;
