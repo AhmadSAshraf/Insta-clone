@@ -17,7 +17,7 @@ Instagram-IP, as the name dictates is a clone of the popular social media platfo
      ```bash
         python manage.py runserver
     ```
-* You can view the live version of the app in [Live page]("https://insta-gclone.herokuapp.com/")Insta-Clone
+* You can view the live version of the app in [Insta-Clone]:("https://insta-gclone.herokuapp.com/")
 
 
 
