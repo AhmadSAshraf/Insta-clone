@@ -1,7 +1,7 @@
 """instaclone URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
-    https://docs.djangoproject.com/en/3.0/topics/http/urls/
+    https://docs.djangoproject.com/en/2.2/topics/http/urls/
 Examples:
 Function views
     1. Add an import:  from my_app import views
@@ -18,13 +18,14 @@ from django.urls import path, include
 from django.views.generic.base import TemplateView
 from django.conf import settings
 from django.conf.urls.static import static
+# from django.contrib.auth.urls
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('users/', include('users.urls')),
     path('users/', include('django.contrib.auth.urls')),
     path('', include('posts.urls')),
-    path('posts/', include('posts.urls')),
+    path('posts/', include('posts.urls'))
 ]
 
 if settings.DEBUG:
