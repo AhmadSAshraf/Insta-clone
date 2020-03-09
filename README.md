@@ -1,7 +1,7 @@
 # Insta-Clone
 
 #### By Ahmad Ashraf
-Instagram-IP, as the name dictates is a clone of the popular social media platform, instagram, built in django framework
+Insta-Clone, as the name dictates is a clone of the popular social media platform, instagram, built in django framework
 
 ## Setup/Installation
 * Clone this repository and navigate into that directory.
@@ -17,7 +17,7 @@ Instagram-IP, as the name dictates is a clone of the popular social media platfo
      ```bash
         python manage.py runserver
     ```
-* You can view the live version of the app in [Insta-Clone]:("https://insta-gclone.herokuapp.com/")
+* You can view the live version of the app in [Insta-Clone]("https://insta-gclone.herokuapp.com/")
 
 
 
